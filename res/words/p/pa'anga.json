@@ -1,0 +1,112 @@
+{
+    "errno": 0,
+    "errmsg": "success",
+    "baesInfo": {
+        "word_name": "pa'anga",
+        "is_CRI": "0",
+        "exchange": {
+            "word_pl": [],
+            "word_third": [],
+            "word_past": [],
+            "word_done": [],
+            "word_ing": [],
+            "word_er": [],
+            "word_est": [],
+            "word_prep": [],
+            "word_adv": [],
+            "word_verb": [],
+            "word_noun": [],
+            "word_adj": [],
+            "word_conn": []
+        },
+        "symbols": [
+            {
+                "ph_en": "'pɑ:ŋɡə",
+                "ph_am": "'pɑŋɡə",
+                "ph_other": "",
+                "ph_en_mp3": "",
+                "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/88/fb/88fbf514d34d09389e12dcd029a4c342.mp3",
+                "ph_tts_mp3": "http://res-tts.iciba.com/8/8/f/88fbf514d34d09389e12dcd029a4c342.mp3",
+                "parts": [
+                    {
+                        "part": "n.",
+                        "means": [
+                            "潘加（汤加王国货币单位）"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "translate_type": 1
+    },
+    "netmean": {
+        "PerfectNetExp": [
+            {
+                "id": "447618",
+                "key": "pa'anga",
+                "exp": "邦加",
+                "url": "http://wenku.baidu.com/view/a3b16231b90d6c85ec3ac6a5.html",
+                "bas": 237,
+                "abs": "各个国家的货币_百度文库 ... UM Mauritania 毛里塔尼亚 pa'anga 邦加 T$ Tonga 汤加."
+            },
+            {
+                "id": "680975",
+                "key": "pa'anga",
+                "exp": "潘加",
+                "url": "http://iask.sina.com.cn/b/10214630.html",
+                "bas": 135,
+                "abs": "全世界有多少种币种?_爱问知识人 ... ouguiya 乌吉亚(毛里塔尼亚) pa'anga 潘加(汤加) peseta 比塞塔(西班牙)."
+            },
+            {
+                "id": "3679085",
+                "key": "pa'anga",
+                "exp": "汤加潘加",
+                "url": "http://www.etoolsage.com/Query/CurrencyCodeC.asp?toolsort=1900",
+                "bas": 12,
+                "abs": "货币及代码编... ... 坦桑尼亚先令( Tanzanian shilling) 汤加潘加( Pa'anga) 特立尼达和多巴哥元( Trinidad and Tobago dollar)."
+            }
+        ],
+        "RelatedPhrase": [
+            {
+                "word": "Tongan pa'anga",
+                "list": [
+                    {
+                        "id": "16717332",
+                        "key": "Tongan pa'anga",
+                        "exp": "东加群岛",
+                        "url": "http://tw.knowledge.yahoo.com/question/question?qid=1306070308387",
+                        "bas": 1,
+                        "abs": "为什麽$要代表金钱? - Yahoo!奇摩知识+ ... Mexican peso 墨西哥 Tongan pa'anga 东加群岛 Uruguayan peso 乌拉圭."
+                    }
+                ]
+            }
+        ]
+    },
+    "derivation": [
+        {
+            "yuyuan_name": "Tongan"
+        }
+    ],
+    "ee_mean": [
+        {
+            "part_name": "Noun",
+            "means": [
+                {
+                    "word_mean": "1. the basic unit of money in Tonga",
+                    "sentences": []
+                }
+            ]
+        }
+    ],
+    "abbreviation": [
+        {
+            "mean_en": "monetary unit of Tonga",
+            "mean_cn": "潘加(汤加的货币单位)"
+        }
+    ],
+    "traditional": "",
+    "_word_flag": 1,
+    "exchanges": [
+        "pa'anga"
+    ]
+}

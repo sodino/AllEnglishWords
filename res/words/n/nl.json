@@ -1,0 +1,370 @@
+{
+    "errno": 0,
+    "errmsg": "success",
+    "baesInfo": {
+        "word_name": "nl",
+        "is_CRI": "0",
+        "exchange": {
+            "word_pl": [],
+            "word_third": [],
+            "word_past": [],
+            "word_done": [],
+            "word_ing": [],
+            "word_er": [],
+            "word_est": [],
+            "word_prep": [],
+            "word_adv": [],
+            "word_verb": [],
+            "word_noun": [],
+            "word_adj": [],
+            "word_conn": []
+        },
+        "symbols": [
+            {
+                "ph_en": "",
+                "ph_am": "",
+                "ph_other": "",
+                "ph_en_mp3": "",
+                "ph_am_mp3": "",
+                "ph_tts_mp3": "http://res-tts.iciba.com/1/a/1/1a13105b7e4eb5fb2e7c9515ac06aa48.mp3",
+                "parts": [
+                    {
+                        "part": "abbr.",
+                        "means": [
+                            "Netherlands 荷兰"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "baesElse": [
+            {
+                "word_name": "Nl",
+                "is_CRI": "0",
+                "exchange": {
+                    "word_pl": [],
+                    "word_third": [],
+                    "word_past": [],
+                    "word_done": [],
+                    "word_ing": [],
+                    "word_er": [],
+                    "word_est": [],
+                    "word_prep": [],
+                    "word_adv": [],
+                    "word_verb": [],
+                    "word_noun": [],
+                    "word_adj": [],
+                    "word_conn": []
+                },
+                "symbols": [
+                    {
+                        "ph_en": "",
+                        "ph_am": "",
+                        "ph_other": "",
+                        "ph_en_mp3": "",
+                        "ph_am_mp3": "",
+                        "ph_tts_mp3": "http://res-tts.iciba.com/e/c/6/ec60fd87d4bf4c2699938059b9bdbb65.mp3",
+                        "parts": [
+                            {
+                                "part": "abbr.",
+                                "means": [
+                                    "national 国家的，国立的，民族的"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "word_name": "NL",
+                "is_CRI": "0",
+                "exchange": {
+                    "word_pl": [],
+                    "word_third": [],
+                    "word_past": [],
+                    "word_done": [],
+                    "word_ing": [],
+                    "word_er": [],
+                    "word_est": [],
+                    "word_prep": [],
+                    "word_adv": [],
+                    "word_verb": [],
+                    "word_noun": [],
+                    "word_adj": [],
+                    "word_conn": []
+                },
+                "symbols": [
+                    {
+                        "ph_en": "",
+                        "ph_am": "",
+                        "ph_other": "",
+                        "ph_en_mp3": "",
+                        "ph_am_mp3": "",
+                        "ph_tts_mp3": "http://res-tts.iciba.com/7/9/6/796834e7a2839412d79dbc5f1327594d.mp3",
+                        "parts": [
+                            {
+                                "part": "abbr.",
+                                "means": [
+                                    "Navy League 海军协会<英>"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "translate_type": 1
+    },
+    "sentence": [
+        {
+            "Network_id": "1154681",
+            "Network_en": "The NL - AUX - RLY auxiliary dual relay box was designed to facilitate this need.",
+            "Network_cn": "该NL -AUX-RLY 辅助双继电器盒是专门设计用于促进这方面需求的.",
+            "tts_mp3": "http://res-tts.iciba.com/tts_new_dj//b/e/f/bef0ef3669073c3116295d53117e82c0.mp3",
+            "tts_size": "27K",
+            "source_type": 0,
+            "source_id": 0,
+            "source_title": "普通双语例句"
+        },
+        {
+            "Network_id": "1181264",
+            "Network_en": "In group NL, the serum ACE increased at 12 h ahd 24 h ( P < 0.05 ) after LPS injection.",
+            "Network_cn": "NL组于12、24hACE明显高于对照组 ( P<0.05 ).",
+            "tts_mp3": "http://res-tts.iciba.com/tts_new_dj//c/9/6/c968d992fd0344a75f50e678fce8712a.mp3",
+            "tts_size": "45K",
+            "source_type": 0,
+            "source_id": 0,
+            "source_title": "普通双语例句"
+        },
+        {
+            "Network_id": "1869227",
+            "Network_en": "The NL - means algorithm is also proven to be asymptotically optimal under a generic statistical image model.",
+            "Network_cn": "在NL - 均值算法也被证明是渐近归在一个通用的统计优化图像模型.",
+            "tts_mp3": "http://res-tts.iciba.com/tts_new_dj//9/a/b/9ab0973a38fbfc45930c0491aea986c1.mp3",
+            "tts_size": "35K",
+            "source_type": 0,
+            "source_id": 0,
+            "source_title": "普通双语例句"
+        }
+    ],
+    "netmean": {
+        "PerfectNetExp": [
+            {
+                "id": "24571",
+                "key": "nl",
+                "exp": "荷兰语",
+                "url": "http://d.958shop.com/soft/2BE9E168-A9CB-4D71-8E5A-B1F3E8275EB1.html",
+                "bas": 8670,
+                "abs": "添加荷兰语（nl）语言包（译者注：汉化版已经精简掉该语言包）安装说明先后分别安装两个程序即可，后一程序为专业版解锁文件。"
+            },
+            {
+                "id": "36230",
+                "key": "nl",
+                "exp": "荷兰文",
+                "url": "http://xiangqinghu1988.blog.163.com/blog/static/588229912010810165734/",
+                "bas": 5652,
+                "abs": "各国语言简写(转) - 了烦山人的日志 - 网易博客 ... nl_BE 荷兰文 (比利时) NL_NL 荷兰文 (荷兰) no_NO 挪威文 (挪威)."
+            },
+            {
+                "id": "166277",
+                "key": "nl",
+                "exp": "荷兰",
+                "url": "http://blog.sina.com.cn/s/blog_7981f91f01012wm7.html",
+                "bas": 892,
+                "abs": "div-MV Dhivehi-马尔代夫nl 荷兰nl-BE 荷兰 -比利时"
+            },
+            {
+                "id": "724579",
+                "key": "nl",
+                "exp": "在内容前加行号",
+                "url": "http://yuanfangwuqing.blog.163.com/blog/static/55837042010326103737225/",
+                "bas": 125,
+                "abs": "linux目录架构详解 - 暗舞者的日志 - 网易博客 ... mkdir 创建文件夹 nl 在内容前加行号 more &amp; less 一面一面翻动."
+            }
+        ],
+        "RelatedPhrase": [
+            {
+                "word": "nl navigation lists",
+                "list": [
+                    {
+                        "id": "6311354",
+                        "key": "nl navigation lists",
+                        "exp": "导航列表",
+                        "url": "http://zhidao.baidu.com/question/154095666.html",
+                        "bas": 4,
+                        "abs": "html 的... ... cellspacing  cellspacing 巢空间 nl navigation lists 导航列表 tr table row 表格中的一行."
+                    }
+                ]
+            },
+            {
+                "word": "nl coop-himmelblau",
+                "list": [
+                    {
+                        "id": "6243582",
+                        "key": "nl coop-himmelblau",
+                        "exp": "蓝天组",
+                        "url": "http://ks.cn.yahoo.com/question/15753294.html",
+                        "bas": 4,
+                        "abs": "谁知道有哪些建筑设计网... ... http://www.stevenholl.com libeskind( 里伯斯金德） http://www.oma.nl coop-himmelblau( 蓝天组）."
+                    }
+                ]
+            },
+            {
+                "word": "nls IE",
+                "list": [
+                    {
+                        "id": "18108076",
+                        "key": "nls IE",
+                        "exp": "档案总管",
+                        "url": "http://zh.wikipedia.org/wiki/%E7%8E%8B%E9%9B%B2%E4%BA%94",
+                        "bas": 1,
+                        "abs": "修改的档案：*$SYSDIR\\CP_950.nls IE（档案总管）显示时使用的转码表*$SYSDIR\\unicode.bin负责跟档案系统操作相关的转码表（如果您有兴趣可以这样玩：把$."
+                    }
+                ]
+            },
+            {
+                "word": "nl parts",
+                "list": [
+                    {
+                        "id": "15086342",
+                        "key": "nl parts",
+                        "exp": "语言部分",
+                        "url": "http://dj.iciba.com",
+                        "bas": 1,
+                        "abs": "guideline d2 design the product with independent nl parts设计产品时将自然语言部分独立开"
+                    }
+                ]
+            }
+        ]
+    },
+    "auth_sentence": [
+        {
+            "id": "1147409",
+            "content": "Kershaw kept his name in the mix to win the NL Cy Young Award.",
+            "link": "http://www.npr.org/templates/story/story.php?storyId=140656040",
+            "short_link": "http://www.npr.org/ydcqu",
+            "source": "NPR",
+            "score": "0.375",
+            "cache_status": "1",
+            "tts_mp3": "http://res-tts.iciba.com/tts_authority/8/a/6/8a6006fe787030a8b3ce0007bab38164.mp3",
+            "tts_size": "19.0",
+            "diff": "1",
+            "oral": "0",
+            "res_content": "Kershaw kept his name in the mix to win the <b>NL</b> Cy Young Award.",
+            "res_content_con": "Kershaw kept his name in the mix to win the NL Cy Young Award.",
+            "res_key": "8a6006fe787030a8b3ce0007bab38164",
+            "source_type": 0,
+            "source_id": 0,
+            "source_title": "普通权威例句"
+        },
+        {
+            "id": "1067796",
+            "content": "Berkeley has seven reserved parking spaces marked NL.",
+            "link": "http://www.newyorker.com/archive/2004/06/28/040628fa_fact_bruck?currentPage=all",
+            "short_link": "http://www.newyorker.com/9brf8",
+            "source": "NEWYORKER",
+            "score": "0.244",
+            "cache_status": "1",
+            "tts_mp3": "http://res-tts.iciba.com/tts_authority/a/0/7/a07cfa639a9d4ba26b2528c5c02cb98c.mp3",
+            "tts_size": "17.0",
+            "diff": "3",
+            "oral": "0",
+            "res_content": "Berkeley has seven reserved parking spaces marked <b>NL</b>.",
+            "res_content_con": "Berkeley has seven reserved parking spaces marked NL.",
+            "res_key": "a07cfa639a9d4ba26b2528c5c02cb98c",
+            "source_type": 0,
+            "source_id": 0,
+            "source_title": "普通权威例句"
+        },
+        {
+            "id": "1149664",
+            "content": "Kemp led the NL with 126 RBIs, the first Dodgers player to lead the league in homers and RBIs since Dolph Camilli in 1941.",
+            "link": "http://www.npr.org/templates/story/story.php?storyId=140893747",
+            "short_link": "http://www.npr.org/znypr",
+            "source": "NPR",
+            "score": "0.08",
+            "cache_status": "1",
+            "tts_mp3": "http://res-tts.iciba.com/tts_authority/d/9/0/d90a648acb498aff65eb58e7bca927f2.mp3",
+            "tts_size": "45.0",
+            "diff": "3",
+            "oral": "0",
+            "res_content": "Kemp led the <b>NL</b> with 126 RBIs, the first Dodgers player to lead the league in homers and RBIs since Dolph Camilli in 1941.",
+            "res_content_con": "Kemp led the NL with 126 RBIs, the first Dodgers player to lead the league in homers and RBIs since Dolph Camilli in 1941.",
+            "res_key": "d90a648acb498aff65eb58e7bca927f2",
+            "source_type": 0,
+            "source_id": 0,
+            "source_title": "普通权威例句"
+        }
+    ],
+    "abbreviation": [
+        {
+            "mean_en": "National League",
+            "mean_cn": "国家联盟"
+        },
+        {
+            "mean_en": "Newfoundland and Labrador",
+            "mean_cn": "纽芬兰与拉布拉多省"
+        },
+        {
+            "mean_en": "North Latitude",
+            "mean_cn": "北纬"
+        },
+        {
+            "mean_en": "non liquet",
+            "mean_cn": "不清楚"
+        },
+        {
+            "mean_en": "netilmicin",
+            "mean_cn": "乙基紫苏霉素,乙基西梭霉素"
+        },
+        {
+            "mean_en": "Netherlands",
+            "mean_cn": "荷兰"
+        },
+        {
+            "mean_en": "nemlig (Dano-Norwegian=namely)",
+            "mean_cn": "(丹麦-挪威语)即，也就是"
+        },
+        {
+            "mean_en": "new line character (data processing)",
+            "mean_cn": "(数据处理)换行字符"
+        },
+        {
+            "mean_en": "nicht lφslich (German=not soluble)",
+            "mean_cn": "(德语)不可溶解的"
+        },
+        {
+            "mean_en": "no liability",
+            "mean_cn": "无义务，无责任，非负债"
+        },
+        {
+            "mean_en": "noiseless",
+            "mean_cn": "无噪声，无杂音的"
+        },
+        {
+            "mean_en": "non licet (Latin=not permitted)",
+            "mean_cn": "(拉丁语)不允许的"
+        },
+        {
+            "mean_en": "non longue (French=not sofar)",
+            "mean_cn": "(法语)不至于"
+        },
+        {
+            "mean_en": "non-lubricant",
+            "mean_cn": "非润滑的"
+        },
+        {
+            "mean_en": "not licensed (to sell liquor)",
+            "mean_cn": "未经许可(出售酒精饮料)"
+        },
+        {
+            "mean_en": "not listed",
+            "mean_cn": "未列出的"
+        }
+    ],
+    "traditional": "",
+    "_word_flag": 1,
+    "exchanges": [
+        "nl"
+    ]
+}
