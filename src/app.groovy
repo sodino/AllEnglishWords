@@ -1,5 +1,5 @@
 def baseDir = './../res/'
-def fileWordsList = 'all.english.word.69903.log'
+def fileWordsList = 'all.english.word.69287.log'
 
 def wordUrl = 'http://www.iciba.com/index.php?a=getWordMean&c=search&word='
 
